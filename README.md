@@ -1,4 +1,4 @@
-#OV7670-Based CCTV Motion Detection System
+# OV7670-Based CCTV Motion Detection System
 
 Real-Time Motion Detection CCTV implemented on BASYS-3 FPGA using the OV7670 camera module.
 
