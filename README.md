@@ -2,12 +2,11 @@
 
 Real-Time Motion Detection CCTV implemented on BASYS-3 FPGA using the OV7670 camera module.
 
-## Demo Image
-![Demo Image](Motion_detection_sobel_grayscale/demo/demo.png)
-
 ## Overview
 
 This project implements a sophisticated real-time motion detection CCTV system using the OV7670 camera module and the BASYS-3 FPGA board. The system captures QVGA (320x240) frames in RGB555 format, processes them through grayscale conversion, Sobel edge detection, and frame differencing, and displays the results on a VGA monitor (640x480 @ 60Hz) with motion indication via LEDs. The design leverages multiple clock domains (12 MHz for OV7670, 25 MHz for VGA, and 100 MHz for internal processing) to ensure efficient operation.
+
+![Demo Image](Motion_detection_sobel_grayscale/demo/demo.png)
 
 The project was developed using Vivado 2020.2 and targets the BASYS-3 FPGA board.
 
