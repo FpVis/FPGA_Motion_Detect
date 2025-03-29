@@ -2,8 +2,8 @@
 
 Real-Time Motion Detection CCTV implemented on BASYS-3 FPGA using the OV7670 camera module.
 
-## Demo Video
-![Watch the demo](Motion_detection_sobel_color/demo/demo.mp4)
+## Demo Image
+![Demo Image](Motion_detection_sobel_grayscale/demo/demo.png)
 
 ## Overview
 
