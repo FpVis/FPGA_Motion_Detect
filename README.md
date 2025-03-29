@@ -145,8 +145,3 @@ cd ov7670-cctv-motion-detection
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-## Acknowledgments
-
-- Inspired by real-time image processing techniques and FPGA-based systems.
-- Thanks to the open-source hardware community for OV7670 and VGA resources.
